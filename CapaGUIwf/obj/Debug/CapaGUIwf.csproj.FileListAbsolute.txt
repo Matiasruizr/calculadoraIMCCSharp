@@ -10,3 +10,5 @@ C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\obj\Debu
 C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\obj\Debug\CapaGUIwf.pdb
 C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\bin\Debug\CapaDTO.dll
 C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\bin\Debug\CapaDTO.pdb
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\bin\Debug\CapaConexion.dll
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\bin\Debug\CapaConexion.pdb

@@ -143,18 +143,12 @@ namespace CapaConexion
         public static void Main(String[] args)
         {
             SQLConexion auxConexion = new SQLConexion();
-            auxConexion.NombreBaseDatos = "TRESCHANCHITOS";
-            auxConexion.NombreTabla = "transaccion";
-            auxConexion.CadenaConexion = @"Data Source=LAPTOP-9Q5GB3MU\SQLEXPRESS;Initial Catalog=TRESCHANCHITOS;Integrated Security=True";
+            auxConexion.NombreBaseDatos = "PRUEBA";
+            auxConexion.NombreTabla = "TRANSACCION";
+            auxConexion.CadenaConexion = @"Data Source=LOCALHOST\SQLEXPRESS;Initial Catalog=PRUEBA;Integrated Security=True";
             auxConexion.CadenaSQL = "SELECT * FROM transaccion;";
             auxConexion.EsSelect = true;
             auxConexion.conectar();
-
-            foreach (DataRow dr in auxConexion.DbDataSet.Tables[auxConexion.NombreTabla].Rows)
-            {
-                Console.WriteLine(dr["cod_producto"] + " " + dr["nom_producto"]);
-            }
-            Console.ReadKey();
         }
 
 
