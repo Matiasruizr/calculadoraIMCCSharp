@@ -1,0 +1,5 @@
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaConexion\obj\Debug\CapaConexion.pdb

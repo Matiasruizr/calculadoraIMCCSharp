@@ -1,0 +1,6 @@
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaDTO\bin\Debug\CapaDTO.dll
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaDTO\bin\Debug\CapaDTO.pdb
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaDTO\obj\Debug\CapaDTO.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaDTO\obj\Debug\CapaDTO.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaDTO\obj\Debug\CapaDTO.dll
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaDTO\obj\Debug\CapaDTO.pdb

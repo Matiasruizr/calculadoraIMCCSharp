@@ -1,0 +1,12 @@
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\bin\Debug\CapaGUIwf.exe.config
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\bin\Debug\CapaGUIwf.exe
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\bin\Debug\CapaGUIwf.pdb
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\obj\Debug\CapaGUIwf.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\obj\Debug\CapaGUIwf.Ingreso.resources
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\obj\Debug\CapaGUIwf.Properties.Resources.resources
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\obj\Debug\CapaGUIwf.csproj.GenerateResource.Cache
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\obj\Debug\CapaGUIwf.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\obj\Debug\CapaGUIwf.exe
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\obj\Debug\CapaGUIwf.pdb
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\bin\Debug\CapaDTO.dll
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaGUIwf\bin\Debug\CapaDTO.pdb

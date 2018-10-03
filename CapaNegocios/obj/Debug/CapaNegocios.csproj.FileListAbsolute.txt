@@ -1,0 +1,6 @@
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\cetecom\source\repos\EnfermeriaClinicaTresChanchitos\CapaNegocios\obj\Debug\CapaNegocios.pdb
